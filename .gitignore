@@ -1,3 +1,9 @@
+# MacOS
+.DS_Store
+
+# Log directory for random guessing algo
+random/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
